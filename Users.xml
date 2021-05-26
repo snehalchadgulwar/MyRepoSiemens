@@ -1,0 +1,12 @@
+<Users>
+<User>
+<Name>Snehal</Name>
+<Password>Test123</Password>
+<IsPrevileged>No</IsPrevileged>
+</User>
+<User>
+	<Name>Deepak</Name>
+	<Password>Test456</Password>
+	<IsPrevileged>Yes</IsPrevileged>
+</User>
+</Users>
